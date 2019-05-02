@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "FormDisplayIndex";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+<div class="container-fluid">
+    <div class="list-group">
+        <!-- Image and text -->
+        <nav class="navbar navbar-light bg-light">
+            <a class="navbar-brand navbar-expand-md" href="#">
+                <h2>FORM GÖRÜNTÜLEME SAYFASI</h2>
+            </a>
+        </nav>
+        <h1></h1>
+        <div class="d-flex align-self-center flex-column col-md-5"></div>
+        <form class="border border-info d-flex align-self-center flex-column col-md-5 p-2">
+            <div class="form-group p-2">
+                <label class="col-form-label">Ad:</label>
+                <input type="text" class="form-control" id="name" name="name" required />
+            </div>
+            <div class="form-group p-2">
+                <label class="col-form-label">Soyad:</label>
+                <input type="text" class="form-control" id="surname" name="surname" required />
+            </div>
+            <div class="form-group p-2">
+                <label class="col-form-label">Yaş:</label>
+                <input type="number" class="form-control" id="age" name="age" />
+            </div>
+            <div class="form-group">
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary btn-block" name="submit">Kaydet</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
