@@ -1,0 +1,12 @@
+C:\Users\Dilnur\source\repos\LenaSoftwareFMP\LenaSoftwareFMP.DLL\bin\Debug\LenaSoftwareFMP.DLL.dll.config
+C:\Users\Dilnur\source\repos\LenaSoftwareFMP\LenaSoftwareFMP.DLL\bin\Debug\LenaSoftwareFMP.DLL.dll
+C:\Users\Dilnur\source\repos\LenaSoftwareFMP\LenaSoftwareFMP.DLL\bin\Debug\LenaSoftwareFMP.DLL.pdb
+C:\Users\Dilnur\source\repos\LenaSoftwareFMP\LenaSoftwareFMP.DLL\bin\Debug\EntityFramework.dll
+C:\Users\Dilnur\source\repos\LenaSoftwareFMP\LenaSoftwareFMP.DLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dilnur\source\repos\LenaSoftwareFMP\LenaSoftwareFMP.DLL\bin\Debug\EntityFramework.xml
+C:\Users\Dilnur\source\repos\LenaSoftwareFMP\LenaSoftwareFMP.DLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dilnur\source\repos\LenaSoftwareFMP\LenaSoftwareFMP.DLL\obj\Debug\LenaSoftwareFMP.DLL.csproj.CoreCompileInputs.cache
+C:\Users\Dilnur\source\repos\LenaSoftwareFMP\LenaSoftwareFMP.DLL\obj\Debug\LenaSoftwareFMP.DLL.csproj.CopyComplete
+C:\Users\Dilnur\source\repos\LenaSoftwareFMP\LenaSoftwareFMP.DLL\obj\Debug\LenaSoftwareFMP.DLL.dll
+C:\Users\Dilnur\source\repos\LenaSoftwareFMP\LenaSoftwareFMP.DLL\obj\Debug\LenaSoftwareFMP.DLL.pdb
+C:\Users\Dilnur\source\repos\LenaSoftwareFMP\LenaSoftwareFMP.DLL\obj\Debug\LenaSoftwareFMP.DLL.csprojAssemblyReference.cache
